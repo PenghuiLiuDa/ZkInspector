@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/mypics">
+        <file>pics/dir.png</file>
+        <file>pics/file.png</file>
+    </qresource>
+    <qresource prefix="/log">
+        <file>Resources/log.txt</file>
+    </qresource>
+    <qresource prefix="/files">
+        <file>last_con_info.json</file>
+    </qresource>
+</RCC>
